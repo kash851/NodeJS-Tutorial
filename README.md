@@ -8,7 +8,7 @@
 6. Create a collection
 7. Upload the JSON file included into the collection
 8. Finally run npm app.js to start the server 
-   -It will be up on port 8000
+   -It will be up on localhost at port 8000
 
 ## In app.js
 Change the collectionName and dbName constants to what your collection name and database names are respectively
