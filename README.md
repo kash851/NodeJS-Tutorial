@@ -13,6 +13,6 @@
 ## In app.js
 Change the collectionName and dbName constants to what your collection name and database names are respectively
 
-##Usage
+## Usage
 Search for an artist. If the artist is in the database, it will return all the songs that are in the database
 made by that artist. Feel free to add more songs and artists to the database using MongoDB Compass
