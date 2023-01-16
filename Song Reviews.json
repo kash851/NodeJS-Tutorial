@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "63c315017838207a0171b12a"
+  },
+  "song": "Yellow Submarine",
+  "artist": "The Beatles"
+},{
+  "_id": {
+    "$oid": "63c315187838207a0171b12b"
+  },
+  "song": "Paint it Black",
+  "artist": "The Rolling Stones"
+},{
+  "_id": {
+    "$oid": "63c31a167838207a0171b12c"
+  },
+  "song": "Running Through The Jungle",
+  "artist": "Creedence Clearwater Revival"
+},{
+  "_id": {
+    "$oid": "63c433076468d8f1b8715274"
+  },
+  "song": "We Major",
+  "artist": "Kanye West"
+}]
