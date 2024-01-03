@@ -1,4 +1,5 @@
 # NodeJS-Tutorial
+Discord hiring managers if you are reading this I haven't pushed anything in github in like two years since I've been busy with college. Sorry if this sucks/doesn't work.
 ## Setting up the project
 1. Make sure that MongoDB is installed
 2. Open up a terminal in your working directory
